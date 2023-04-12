@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/browsebox/browsebox-web.svg)](https://github.com/browsebox/browsebox-web/releases/latest)
 [![CodeFactor](https://www.codefactor.io/repository/github/browsebox/browsebox-web/badge)](https://www.codefactor.io/repository/github/browsebox/browsebox-web)
 
-Central repository for BrowseBox.
+
 
 ## Developing browsebox-web
 
